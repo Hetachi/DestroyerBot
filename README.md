@@ -1,4 +1,4 @@
-# DestroyerBot
+# Discord BOT
 A Discord bot I made for my community
 
 # Requirements
@@ -13,7 +13,7 @@ Edit file [ownerID.js](components/config/ownerID.js)
 To start the bot run command `yarn start`
 
 # Bot commands
-- NOTE: "`@Username` must be a valid discord user tag, otherwise if not found bot will add an undefined user to the moderator list. `Undefined` can be removed via command `!unmod undefined`!"
+- NOTE: "`@Username` must be a valid discord user tag, otherwise if not found bot will add an `undefined` user to the moderator list. `Undefined` can be removed via command `!unmod undefined`!"
 - `!mod @Username` - Assigns user role moderator
 - `!unmod @Username` - Removes user from moderator list
 - `!actions` - List all available commands that bot has to offer

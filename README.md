@@ -1,6 +1,6 @@
 # Discord BOT
 A Discord bot I made for my community
-
+I was unable to find a simple yet elegant discord bot solution, for just moderating chat in my dicord server, so I made this discord bot to do just that, all it does it mute or unmute players.
 # Requirements
 Atleast `NodeJS 10.13.0 LTS` and `Yarn 1.10.1`
 

@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.io": "github:woor/discord.io#gateway_v6"
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "nodemon": "^1.18.6"
   }
 }
